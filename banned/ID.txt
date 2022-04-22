@@ -1,2 +1,5 @@
 ID: 100077426940502
 Lí Do: Report cfs sai nội dung.
+
+ID: 100078197752052
+Lí Do: Thay appstate test Bot làm ảnh hưởng tới các author khác
